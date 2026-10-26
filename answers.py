@@ -1,6 +1,6 @@
 # Question 1: 
-input_name = input("What is your name? ")
-input_age = input("What is your age? ")
+input_name = input("What is your name?")
+input_age = input("What is your age?")
 print("My name is " + input_name + " and I am " + input_age + " years old.")
 
 # Question 2:
